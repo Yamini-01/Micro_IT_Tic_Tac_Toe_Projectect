@@ -1,1 +1,1 @@
-# Micro_IT_Tic_Tac_Toe_Projectect
+# Micro_IT_Tic_Tac_Toe_Project
